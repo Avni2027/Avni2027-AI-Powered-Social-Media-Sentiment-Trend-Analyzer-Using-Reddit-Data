@@ -1,0 +1,12 @@
+.env
+.env.local
+*.env
+*.txt
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.ipynb
+venv/
+.venv/
+.DS_Store
+api key.txt
