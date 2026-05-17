@@ -80,9 +80,10 @@ http://localhost:8501
 - Building interactive dashboards with Streamlit and Plotly
 
 ## Author
-- Name  : Your Name Here
-- Email : Your Email Here
-- GitHub: Your GitHub Here
+- Name  : Avni Jain 
+- Email : avnijain55555@gmail.com
+- GitHub: Avni2027
+  
 
 ## Acknowledgements
 - Reddit JSON API for public data access
