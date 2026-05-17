@@ -1,0 +1,13 @@
+streamlit
+requests
+pandas
+plotly
+vaderSentiment
+nltk
+newsapi-python
+matplotlib
+wordcloud
+scikit-learn
+numpy
+groq
+protobuf==3.20.3
